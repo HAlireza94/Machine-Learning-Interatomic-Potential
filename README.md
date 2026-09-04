@@ -11,5 +11,6 @@ The last 8000 snapshots are taken for training, test, and validating. This is be
 </p>
 
 
-## Water Density Profile Obtained from Molecular Dynamics Simulation using ASE
-![water_density_profile Plot](figures/water_density_profile.png)
+## Water Density Profile from Molecular Dynamics Simulation via ASE
+
+![Water Density Profile](figures/water_density_profile.png)
