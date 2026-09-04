@@ -1,0 +1,50 @@
+INFO - The batching parameter max_n_node has been computed to be 144.
+INFO - The batching parameter max_n_edge has been computed to be 1584.
+INFO - Starting to compute mandatory dataset statistics: this may take some time...
+INFO - Processed 10% of data
+INFO - Processed 20% of data
+INFO - Processed 30% of data
+INFO - Processed 40% of data
+INFO - Processed 50% of data
+INFO - Processed 60% of data
+INFO - Processed 70% of data
+INFO - Processed 80% of data
+INFO - Processed 90% of data
+INFO - Processed 100% of data
+INFO - Processed 100% of data
+INFO - The batching parameter max_n_node has been computed to be 144.
+INFO - The batching parameter max_n_edge has been computed to be 1584.
+INFO - The batching parameter max_n_node has been computed to be 144.
+INFO - The batching parameter max_n_edge has been computed to be 1584.
+INFO - Number of parameters: 431712
+INFO - Number of parameters in optimizer: 1726854
+INFO - Starting training loop...
+INFO - Validation: Loss = 14.226 | Mae e = 18.704 | Mae f = 0.562 | Rmse e = 18.714 | Rmse f = 0.754
+INFO - Best model: Loss = 14.226 | Best epoch = 0
+INFO - ------------ Epoch 1 ------------
+INFO - Training:   Loss = 0.307 | Gradient norm = 1.381 | Param update norm = 0.346
+INFO - System:     Runtime in seconds = 1452.773
+INFO - Validation: Loss = 0.108 | Mae e = 0.140 | Mae f = 0.049 | Rmse e = 0.176 | Rmse f = 0.066
+INFO - Best model: Loss = 0.108 | Best epoch = 1
+INFO - ------------ Epoch 2 ------------
+INFO - Training:   Loss = 0.105 | Gradient norm = 0.839 | Param update norm = 0.212
+INFO - System:     Runtime in seconds = 1450.694
+INFO - Validation: Loss = 0.087 | Mae e = 0.115 | Mae f = 0.044 | Rmse e = 0.146 | Rmse f = 0.059
+INFO - Best model: Loss = 0.087 | Best epoch = 2
+INFO - ------------ Epoch 3 ------------
+INFO - Training:   Loss = 0.092 | Gradient norm = 0.736 | Param update norm = 0.198
+INFO - System:     Runtime in seconds = 1453.881
+INFO - Validation: Loss = 0.079 | Mae e = 0.113 | Mae f = 0.042 | Rmse e = 0.144 | Rmse f = 0.056
+INFO - Best model: Loss = 0.079 | Best epoch = 3
+INFO - ------------ Epoch 4 ------------
+INFO - Training:   Loss = 0.085 | Gradient norm = 0.666 | Param update norm = 0.193
+INFO - System:     Runtime in seconds = 1456.453
+INFO - Validation: Loss = 0.074 | Mae e = 0.109 | Mae f = 0.040 | Rmse e = 0.138 | Rmse f = 0.054
+INFO - Best model: Loss = 0.074 | Best epoch = 4
+INFO - ------------ Epoch 5 ------------
+INFO - Training:   Loss = 0.081 | Gradient norm = 0.612 | Param update norm = 0.189
+INFO - System:     Runtime in seconds = 1454.204
+INFO - Validation: Loss = 0.071 | Mae e = 0.114 | Mae f = 0.040 | Rmse e = 0.144 | Rmse f = 0.053
+INFO - Best model: Loss = 0.071 | Best epoch = 5
+INFO - Training loop completed.
+INFO - Testing: Loss = 0.071 | Mae e = 0.115 | Mae f = 0.040 | Rmse e = 0.148 | Rmse f = 0.053
