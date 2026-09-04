@@ -10,3 +10,6 @@ The last 8000 snapshots are taken for training, test, and validating. This is be
   <img src="energy_parity.png" width="48%">
 </p>
 
+
+## Water Density Profile Obtained from Molecular Dynamics Simulation using ASE
+![water_density_profile Plot](figures/water_density_profile.png)
